@@ -1,0 +1,15 @@
+﻿C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\Authorize.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\ETurnPlayer.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\ETypeResponceAfterFire.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\GameSeaBattle.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\JsonPlayerArea.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\JsonSaveGame.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\JsonSavePlayer.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\PasswordStorageDB.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\Program.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\StaticHelper.cs
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\lastgame.json
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\lastgame_player_1.json
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\lastgame_player_2.json
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\newgame_player_1.json
+C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\newgame_player_2.json

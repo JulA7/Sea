@@ -1,0 +1,6 @@
+projectKey=seaTest
+serverUrl=http://localhost:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://localhost:9000/dashboard?id=seaTest
+ceTaskId=218e3b24-b30a-43d8-9cb0-720f55f3e231
+ceTaskUrl=http://localhost:9000/api/ce/task?id=218e3b24-b30a-43d8-9cb0-720f55f3e231

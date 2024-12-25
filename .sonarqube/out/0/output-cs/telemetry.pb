@@ -1,0 +1,1 @@
+XRBC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\SeaBattle.csproj�net7.0�CSharp11

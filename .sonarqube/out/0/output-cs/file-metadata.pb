@@ -1,0 +1,14 @@
+g
+\C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\obj\Debug\net7.0\SeaBattle.AssemblyInfo.csutf-8|
+qC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8i
+^C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\obj\Debug\net7.0\SeaBattle.GlobalUsings.g.csutf-8J
+AC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\StaticHelper.csutf-8E
+<C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\Program.csutf-8O
+FC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\PasswordStorageDB.csutf-8L
+CC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\JsonSavePlayer.csutf-8J
+AC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\JsonSaveGame.csutf-8L
+CC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\JsonPlayerArea.csutf-8K
+BC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\GameSeaBattle.csutf-8T
+KC:\Users\zebra\Desktop\Архив\laba3\SeaBattle\ETypeResponceAfterFire.csutf-8I
+@C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\ETurnPlayer.csutf-8G
+>C:\Users\zebra\Desktop\Архив\laba3\SeaBattle\Authorize.csutf-8
